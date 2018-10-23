@@ -312,7 +312,7 @@ while running:
 		print_text("POWER-UP ON", (575,50), font2, RED, BLACK)
 	pygame.display.flip()
 
-#save record
+
 if newRecord:
 	saveRecord()
 
